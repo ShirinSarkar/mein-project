@@ -2,11 +2,29 @@ window.onload = function(){
 
 }
 
+function homeClick(){
 
-
-
-function changeColor(){
-
-    let h1 = document.getElementById('h1');
-    h1.style = "color:red;font-size:50px;";
+document.getElementById('homeSection').style = "right:55%;";
+// document.getElementById('contactSection').style = "right:0;";
+// document.getElementById('aboutSection').style = "right:0;";
 }
+
+
+
+function contactClick(){
+
+// document.getElementById('homeSection').style = "right:55%;";
+ document.getElementById('contactSection').style = "right:50%;";
+// document.getElementById('aboutSection').style = "right:0;";
+
+}
+
+
+function aboutClick(){
+
+    // document.getElementById('homeSection').style = "right:55%;";
+    // document.getElementById('contactSection').style = "right:100%;";
+     document.getElementById('aboutSection').style = "right:46%;";
+    
+    }
+    
