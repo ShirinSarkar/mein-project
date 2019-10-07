@@ -1,0 +1,78 @@
+
+
+#man{
+    width: 100%;
+    height: 200px;
+    border: 1px solid blue;
+}
+
+
+
+
+
+
+#man button[onClick="bClick()"] {
+    border : 1px;
+    background-color: black;
+}
+
+/* 
+#bSection{
+    transition: right 2s;
+    top:50px;
+    right: 100%;
+    position: absolute;  
+   
+    
+}
+
+#oSection{
+    transition: right 2s;
+    top:50px;
+    right: 100%;
+    position: absolute;  
+   
+    
+}
+
+#xSection{
+    transition: right 2s;
+    top:50px;
+    right: 100%;
+    position: absolute;  
+   
+    
+} */
+
+
+/* -------------------------------------------------- */
+
+
+
+#iSection, #nnSection, #tSection ,#hhSection, #eeSection ,#eSection, #nSection ,#dSection {
+
+    transition: right 2s;
+    top:50px;
+    right: 100%;
+    position: absolute; 
+    
+}
+
+
+#i2Section, #wSection, #oSection ,#uSection, #lSection ,#d2Section, #lSection ,#i3Section,
+#k2Section ,#e2Section, #t2Section, #o2Section, #t3Section, #h2Section ,#aSection, #n2Section ,
+#k3Section{
+    transition: right 4s;
+    top:90px;
+    right: 100%;
+    position: absolute; 
+    
+}
+
+#a2Section, #l2Section, #l3Section, #o3Section, #fSection ,#ySection, #o4Section ,
+#u2Section{
+    transition: right 6s;
+    top:130px;
+    right: 100%;
+    position: absolute; 
+}
